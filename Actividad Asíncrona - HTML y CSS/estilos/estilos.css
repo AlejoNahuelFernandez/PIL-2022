@@ -1,0 +1,47 @@
+.seccionPrincipal{
+    background-color: green;
+}
+
+h1{
+    font-family: 'Courier New';
+    font-size: 50px;
+    text-align: center;
+    color: yellow;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 40px;
+}
+
+h3{
+    font-family: 'Gill Sans';
+    font-size: 30px;
+}
+
+p{
+    background-color: aqua;
+}
+
+#imagen1{
+    width: 100%;
+}
+
+nav:hover{
+    background-color: blueviolet;
+}
+
+footer{
+    background-color: black;
+    color:white;
+}
+
+#imgpaisaje{
+    height:350px;
+    width:250px;
+}
+
+#imgbart{
+    height:350px;
+    width:250px;
+}
