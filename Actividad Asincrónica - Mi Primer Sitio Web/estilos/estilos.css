@@ -27,21 +27,25 @@ p{
     width: 100%;
 }
 
-nav:hover{
-    background-color: blueviolet;
-}
-
-footer{
+header, footer{
     background-color: black;
     color:white;
 }
 
 #imgpaisaje{
-    height:350px;
-    width:250px;
+    height:500px;
+    width:400px;
 }
 
 #imgbart{
-    height:350px;
-    width:250px;
+    height:500px;
+    width:400px;
+}
+
+#navbar a:hover{
+    background-color: blue;
+}
+
+nav:hover{
+    background-color: blueviolet;
 }
